@@ -18,3 +18,7 @@ ul tagı kullanılarak liste sıralaması yapılmış
 
 ![snippet](img/snippet.png)
 
+gif
+
+![Lab_1-Gif](tasarim/hafiza_oyunu.gif)
+
