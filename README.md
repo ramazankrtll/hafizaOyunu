@@ -20,5 +20,5 @@ ul tagı kullanılarak liste sıralaması yapılmış
 
 gif
 
-![Lab_1-Gif](tasarim/hafiza_oyunu.gif)
+![Lab_1-Gif](img/hafiza_oyunu.gif)
 
