@@ -14,3 +14,7 @@ mesela renklere göre seçim ;
 
 ul tagı kullanılarak liste sıralaması yapılmış
 
+
+
+![snippet](img/snippet.png)
+
